@@ -1,0 +1,27 @@
+---
+layout: post
+title:      "My Cli Gem "
+date:       2018-01-11 14:25:25 +0000
+permalink:  my_cli_gem
+---
+
+
+"# MY CLI GEM". 
+
+This first project has taught me a ton of lessons, and none that I expected to learn. 
+
+I think I went into it hoping that I’d miraculously come out the other side feeling confident about my ability to write ruby code. At times I got so hung up on that goal that I would feel debilitated, unable to move forward with a sureness that I “don’t know enough to accomplish this yet”
+
+Along the way, and (often as a mode of distracting myself from actually writing the methods I so feared) I ended up upping my developer confidence ten fold. 
+
+Things this project taught me:
+
+**1**. To take off the training wheels and go to a local environment. Setting up my own terminal and atom, connecting my GitHub and effortlessly using git commands to submit my repos and lessons has given me a few much needed “Oh, I actually know how to do this” moments. 
+
+**2**. To get comfortable with pry. from mastering exit! to “Q” when viewing an HTML doc, I feel like I finally feel at ease moving bindings and using this tool.
+
+**3**. To discover some fun gems. Need a break but don’t want to give up on the day, hello colorize!
+
+**4**. To really flex my muscles with googling, slack, stack overflow and reaching out to people when stuck. Begin to understand what Avi means when he says “That the point of all this is to teach yourself how to problem solve the unknown”
+
+**5**. Lastly, to lighten up about my current code writing abilities. This is my first ever personal project - just getting through it is a great success….I successfully built a gem that can tell you your daily horoscope. In time, however far down the road, I might actually feel like an expert rubyist…but for right now thats not whats most important.  
