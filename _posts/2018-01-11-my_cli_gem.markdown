@@ -1,12 +1,10 @@
 ---
 layout: post
 title:      "My Cli Gem "
-date:       2018-01-11 14:25:25 +0000
+date:       2018-01-11 09:25:26 -0500
 permalink:  my_cli_gem
 ---
 
-
-"# MY CLI GEM". 
 
 This first project has taught me a ton of lessons, and none that I expected to learn. 
 
