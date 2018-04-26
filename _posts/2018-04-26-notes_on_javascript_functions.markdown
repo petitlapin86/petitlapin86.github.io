@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Notes on Javascript Functions"
-date:       2018-04-26 14:55:08 +0000
+date:       2018-04-26 10:55:09 -0400
 permalink:  notes_on_javascript_functions
 ---
 
