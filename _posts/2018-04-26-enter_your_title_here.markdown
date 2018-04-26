@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Enter your title here"
-date:       2018-04-26 15:04:53 +0000
+title:      "CRUD-i-ate Sinatra App "
+date:       2018-04-26 11:04:54 -0400
 permalink:  enter_your_title_here
 ---
 
